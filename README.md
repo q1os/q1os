@@ -3,3 +3,5 @@
 - 🌱 代码要多敲，熟能生巧记得牢。
 - 💞️ 有想法要多实践，多验证。
 - 📫 做事持之以恒，越努力，越幸运。
+
+- 工具： JetBrains IDEA CE ， VSCode ， DBeaver CE， WindTerm 
