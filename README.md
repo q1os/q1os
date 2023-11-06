@@ -1,3 +1,3 @@
-- 👋 持之以恒
+- 👋 Keep Learning
 
-- 实用工具： JetBrains IDEA CE ， VSCode ， DBeaver CE， WindTerm 
+- 实用工具： JetBrains IDEA CE ， VSCode ， DBeaver CE， WindTerm ，Eclipse 。
