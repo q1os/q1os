@@ -34,13 +34,3 @@
    - Flink生态
    - 数据湖生态
 
---- 
-
-- maven多模块组织：https://zhuanlan.zhihu.com/p/84175296
-- 子模块改名后在idea失效问题：https://www.cnblogs.com/ying-z/p/14631078.html
-
-- 工程默认不是1.8的增加两个属性
-```markdown
-<maven.compiler.source>1.8</maven.compiler.source>
-<maven.compiler.target>1.8</maven.compiler.target> 
-```
